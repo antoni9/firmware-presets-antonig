@@ -12,6 +12,10 @@
 #$ DESCRIPTION:
 #$ DESCRIPTION: <br>
 #$ DESCRIPTION:
+#$ DESCRIPTION: It's best to apply this preset to a freshly flashed FC with BF 4.4.2
+#$ DESCRIPTION:
+#$ DESCRIPTION: <br>
+#$ DESCRIPTION:
 #$ DESCRIPTION: !CAUTION! This worked on various lower and mid-tier setups with various gear - the tune was installed at multiple race days on mutliple quads and all reported
 #$ DESCRIPTION: lower latency, better feel and faster lap times. USE AT YOUR OWN RISK - this tune is aggressive and will cause BURNING HOT motors on hot summer days.
 #$ DESCRIPTION:
